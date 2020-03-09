@@ -2,6 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Video Aplicação rodando
 [Video](https://drive.google.com/file/d/1Uk3Vsvagqb07OiKBj67Hh4xpV62iFe3R/view?usp=sharing)
 
+## Dica para rodar a aplicação
+Execute os seguintes comandos no terminal dentro da pasta onde está o projeto:
+
+1. npm uninstall create-react-app 
+2. npm install -g create-react-app
+3 . yarn start
+
 ## Available Scripts
 
 In the project directory, you can run:
