@@ -7,7 +7,7 @@ Execute os seguintes comandos no terminal dentro da pasta onde está o projeto:
 
 1. npm uninstall create-react-app 
 2. npm install -g create-react-app
-3 . yarn start
+3. yarn start
 
 ## Available Scripts
 
